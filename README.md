@@ -2,9 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CBCBCB&height=300&section=header&text=Blockmonkey&fontSize=90&animation=fadeIn)
   
-### ✨ **Personal**
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory)](https://blockmonkeys.tistory.com/)
-[![Portfolio Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion)](https://blockchain-lighthouse.notion.site/Blockchain-Lighthouse-Korea-50c796fa1faa43e5b80ee7a446ec375a)
+### ✨ **Records**
+[![Notion Badge](https://img.shields.io/badge/BlockchainLighthouse-000000?style=flat&logo=Notion)](https://blockchain-lighthouse.notion.site/Blockchain-Lighthouse-Korea-50c796fa1faa43e5b80ee7a446ec375a)
 
 	
 
